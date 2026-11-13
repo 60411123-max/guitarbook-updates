@@ -1,0 +1,8 @@
+{
+  "app_enabled": true,
+  "status_message": "GuitarBook está en mantenimiento temporal. Volvemos pronto.",
+  "latest_version": "1.0.0",
+  "force_update": false,
+  "release_notes": "• Versión inicial de GuitarBook",
+  "update_url": "https://github.com"
+}
